@@ -1,0 +1,12 @@
+Deal Value (in $M)
+Previous Deals
+Industry_Energy
+Industry_Finance
+Industry_Healthcare
+Industry_Retail
+Industry_Tech
+Target Region_Asia
+Target Region_EU
+Target Region_US
+Merger Type_Acquisition
+Merger Type_Merger
